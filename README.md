@@ -27,9 +27,9 @@ En la PoC tenemos:
 
    `python ./check_data.py`
 
-4. En una consola, ejecutar script bash send_data.sh para enviar un mensaje al topico de testing (test/test1).  
+4. En una consola, ejecutar script bash send_data.sh para enviar un mensaje al topico de testing (test/test1). 
 
-  `./send_data "mensaje prueba"`
+   `./send_data "mensaje prueba"`
 
-  Al ejecutar el punto 4, en las pantallas correspondientes a suscriptores definidos en punto 2 y 3, se podrán observar los mensajes del topico de prueba, y los eventos del sistema.
+   Al ejecutar este punto, en las pantallas correspondientes a suscriptores definidos en punto 2 y 3, se podrán observar los mensajes del topico de prueba, y los eventos del sistema.
 
