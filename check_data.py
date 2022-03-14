@@ -28,5 +28,5 @@ def main():
 
 
 if __name__ == '__main__':
-    print('MQTT to InfluxDB bridge')
+    print('MQTT subscriber to test topic')
     main()
